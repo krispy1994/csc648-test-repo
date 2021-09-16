@@ -1,1 +1,1 @@
-This is a new file on feature1 branch that I have now changed.
+This is a new file on feature1 branch.
