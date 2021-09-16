@@ -1,2 +1,2 @@
 # csc648-test-repo
-This is a test repo to show git best practices
+This is a changed README.md file
